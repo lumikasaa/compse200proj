@@ -1,5 +1,7 @@
 # Student template
 
+Node version 22
+
 ## Purpose of this repository
 
 This is a project template for students participating in Software Testing course
