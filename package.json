@@ -1,11 +1,11 @@
 {
-  "name": "software-testing-assignment",
+  "name": "compse200proj",
   "version": "1.0.0",
-  "description": "",
+  "description": "Software testing assignment",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no tests are implemented yet \" && exit 1"
+    "test": "mocha"
   },
   "author": "",
   "license": "MIT",
