@@ -1,6 +1,0 @@
-{
-    "all": false,
-    "include": [
-        "src/add.js"
-    ]
-}

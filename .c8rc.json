@@ -1,0 +1,6 @@
+{
+    "exclude": [
+        "src/.internal/*",
+        "test/*"
+    ]
+}
